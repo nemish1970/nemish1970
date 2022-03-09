@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nemish1970 and its not my birth year
 - 👀 I’m interested in making things  
 - 🌱 I’m currently persuing my cse degree
-- 💞️ I’m looking to collaborate on projects that is going to be helping society
+- 💞️ I’m looking to collaborate on projects that is going to be helping people
 - 📫 iam on instagram @__tothe_moon
 
 <!---
