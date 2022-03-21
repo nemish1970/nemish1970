@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nemish1970 and its not my birth year
+- 👋 Hi,  iam Nemish
 - 👀 I’m interested in making things  
-- 🌱 I’m currently persuing my cse degree
+- 🌱 I’m currently persuing my bechelors degree in computer science
 - 💞️ I’m looking to collaborate on projects that is going to be helping people
-- 📫 iam on instagram @__tothe_moon
+- 📫 you can connect with me on instagram @nemish_patel02
 
 <!---
 nemish1970/nemish1970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
